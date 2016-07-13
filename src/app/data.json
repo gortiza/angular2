@@ -1,0 +1,4562 @@
+
+{
+  "timeToQuery": "2016-07-05T19:00:00.000Z",
+  "totalEdges": 239,
+  "domains": [
+    "mxusphls2.clarovideo.com",
+    "mxuspdashqro.clarovideo.com",
+    "mxuspss2.clarovideo.com",
+    "mxuspss2qro.clarovideo.com"
+  ],
+  "dnsMapping": {
+    "mxusphls2.clarovideo.com": [
+      {
+        "dns": {
+          "ip": "187.141.127.249",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.106",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.123",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.127.250",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.106",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.121",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.127.251",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.18",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.80",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.1",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.153",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.8",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.3",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.153",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.104",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.1",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.112",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.75",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.2",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.112",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "65.200.22.218",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.3",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.113",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "65.200.23.8",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.1",
+          "city": "MERIDA",
+          "pop": "PLAZA"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.106",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.73",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.10",
+          "city": "CANCUN",
+          "pop": "CASCADA"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.112",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.96",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.2",
+          "city": "MERIDA",
+          "pop": "PLAZA"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.105",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.97",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.9",
+          "city": "CANCUN",
+          "pop": "CASCADA"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.105",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.96",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.155",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.88",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "187.141.1.122",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.156",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.83",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "63.243.241.32",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.157",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.96",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "65.200.22.243",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.161",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.82",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "63.243.242.163",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.162",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.82",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.16",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.163",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.83",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "23.7.245.24",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.177",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.32",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.32",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.186",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.32",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "65.200.22.210",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.187",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.32",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "65.200.22.225",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.195",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.83",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.56",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.201",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.96",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.17",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.203",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.96",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "65.200.22.249",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.210",
+          "city": "CELAYA",
+          "pop": "AZTECAS"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.82",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.254.81.123",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.211",
+          "city": "CELAYA",
+          "pop": "AZTECAS"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.82",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.65",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.225",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.83",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "server",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.226",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.88",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "+short",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.227",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.96",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": null,
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": null
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.193",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.57",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "mxusphls2.clarovideo.com",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.194",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.57",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.50",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.196",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.57",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.24",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.201",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.57",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.104",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.202",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.51",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.96",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.203",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.10",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.104",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.209",
+          "city": "PUEBLA",
+          "pop": "CTP"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.106",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.73",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.213",
+          "city": "PUEBLA",
+          "pop": "CTP"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.16",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.88",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.218",
+          "city": "PUEBLA",
+          "pop": "FUERTES"
+        },
+        "expectedNode": {
+          "ip": "187.157.63.106",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.80",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.193",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.155",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.196",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.11",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "63.147.242.176",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.201",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.155",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.202",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.11",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "63.147.242.192",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.209",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.11",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "184.25.56.90",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.210",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.11",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.161",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.211",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.40",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "201.116.191.249",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.136",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.116.191.250",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.136",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.116.191.251",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.161",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.241",
+          "city": "CHIHUAHUA",
+          "pop": "CATEDRAL"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.170",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.242",
+          "city": "CHIHUAHUA",
+          "pop": "CATEDRAL"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.11",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.161",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.243",
+          "city": "CHIHUAHUA",
+          "pop": "CATEDRAL"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.155",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.249",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.9",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.250",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.40",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.50",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.251",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.11",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "63.147.242.161",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      }
+    ],
+    "mxuspdashqro.clarovideo.com": [
+      {
+        "dns": {
+          "ip": "187.141.127.249",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.43",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.128",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.127.250",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.51",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.107",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.127.251",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.66",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.114",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.1",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.43",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.106",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.2",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "65.200.22.187",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.3",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.35",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.10",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.1",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.66",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.73",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.2",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.73",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "65.200.22.211",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.3",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.66",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "65.200.22.176",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.1",
+          "city": "MERIDA",
+          "pop": "PLAZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.58",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.89",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.10",
+          "city": "CANCUN",
+          "pop": "CASCADA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.66",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.91",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.2",
+          "city": "MERIDA",
+          "pop": "PLAZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.73",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.90",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.9",
+          "city": "CANCUN",
+          "pop": "CASCADA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.10",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.88",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.155",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.17",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "187.141.1.98",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.177",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.82",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.32",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.178",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.16",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": null,
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": null
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.179",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.9",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.40",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.185",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.25",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.32",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.186",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.73",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "65.200.22.216",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.187",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.57",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.32",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.195",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.56",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.18",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.201",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.40",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.56",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.203",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.17",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "65.200.22.226",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.210",
+          "city": "CELAYA",
+          "pop": "AZTECAS"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.40",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.254.81.96",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.211",
+          "city": "CELAYA",
+          "pop": "AZTECAS"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.34",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.25",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.225",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.27",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "9.9.5-9-Debian",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.226",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.34",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": ";",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.227",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.42",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": null,
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": null
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.137",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.67",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "23.67.252.10",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.138",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.56",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.83",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.139",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.81",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.83",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.145",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.56",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.66",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.146",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.67",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.75",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.147",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.75",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.75",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.153",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.56",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.26",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.154",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.72",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.83",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.161",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.74",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.74",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.162",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.56",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.163",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.67",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.26",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.169",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "ROMA"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.74",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.66",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.170",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "ROMA"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.74",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.64",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.171",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "ROMA"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.56",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "23.67.252.10",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.193",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.81",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.10",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.194",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.106",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.196",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.81",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.106",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.201",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.106",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.202",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.66",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.10",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.203",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.81",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.10",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.209",
+          "city": "PUEBLA",
+          "pop": "CTP"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.34",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": ";",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.218",
+          "city": "PUEBLA",
+          "pop": "FUERTES"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.24",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.75",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.233",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "POPO"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.74",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "<<>>",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.234",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "POPO"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.75",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "23.67.252.18",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.193",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "189.247.163.161",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.153",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.196",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.97",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "63.147.242.162",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.201",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "189.247.163.161",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.152",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.202",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.72",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "184.25.56.90",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.209",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.98",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "184.25.56.90",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.210",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER"
+        },
+        "expectedNode": {
+          "ip": "189.247.163.161",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.152",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.211",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER"
+        },
+        "expectedNode": {
+          "ip": "189.247.163.161",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.25",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.116.191.249",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.97",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.152",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.116.191.250",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.81",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.152",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.116.191.251",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.75",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.153",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.241",
+          "city": "CHIHUAHUA",
+          "pop": "CATEDRAL"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.66",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.153",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.242",
+          "city": "CHIHUAHUA",
+          "pop": "CATEDRAL"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.96",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.152",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.243",
+          "city": "CHIHUAHUA",
+          "pop": "CATEDRAL"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.83",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.152",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.249",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.91",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.250",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.73",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.251",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.80",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "63.147.242.185",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      }
+    ],
+    "mxuspss2.clarovideo.com": [
+      {
+        "dns": {
+          "ip": "187.141.127.249",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.26",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.240",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.127.250",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.26",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.247.164.64",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.127.251",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.64",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.247.164.64",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.1",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.56",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.2",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "201.144.215.64",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.3",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.64",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.1",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "<<>>",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.2",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.141.1.89",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.3",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.141.1.89",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.1",
+          "city": "MERIDA",
+          "pop": "PLAZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.247.164.35",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.10",
+          "city": "CANCUN",
+          "pop": "CASCADA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.247.164.64",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.2",
+          "city": "MERIDA",
+          "pop": "PLAZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.247.164.64",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.9",
+          "city": "CANCUN",
+          "pop": "CASCADA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.247.164.64",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.155",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.58",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.165.58",
+          "city": "GUADALAJARA",
+          "pop": "CTG",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.177",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.74",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.34",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.178",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.35",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": null,
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": null
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.179",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.35",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "173.223.52.208",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.185",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.35",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.35",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.186",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.82",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.35",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.187",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.74",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.8",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.195",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.58",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.165.58",
+          "city": "GUADALAJARA",
+          "pop": "CTG",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.201",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.58",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.165.58",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.203",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.58",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "173.223.52.203",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.210",
+          "city": "CELAYA",
+          "pop": "AZTECAS"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.35",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.254.81.240",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.211",
+          "city": "CELAYA",
+          "pop": "AZTECAS"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.58",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.33",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.225",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.58",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "9.9.5-9-Debian",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.226",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.35",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "found)",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.227",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.35",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": null,
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": null
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.137",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.41",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "23.67.252.25",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.138",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.83",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.27",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.139",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.83",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.27",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.145",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.26",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.51",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.146",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.83",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.83",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.147",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.11",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.81",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.153",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.41",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.27",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.154",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.26",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.27",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.161",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.65",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.65",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.162",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.65",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.65",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.163",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.65",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.27",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.169",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "ROMA"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.83",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.65",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.170",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "ROMA"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.26",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.56",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.171",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "ROMA"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.26",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "23.212.53.181",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.193",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.73",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.194",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.196",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.115",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.201",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.73",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.73",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.202",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.80",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.203",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.80",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.209",
+          "city": "PUEBLA",
+          "pop": "CTP"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.247.164.35",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.218",
+          "city": "PUEBLA",
+          "pop": "FUERTES"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.247.164.35",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.233",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "POPO"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.83",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "23.212.53.196",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.234",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "POPO"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.11",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "23.212.53.181",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.193",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "189.247.163.177",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.177",
+          "city": "MONTERREY",
+          "pop": "MAYO",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.196",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.81",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "63.147.242.201",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.201",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "189.247.163.177",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.99",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.202",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.57",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "184.25.56.76",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.209",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.81",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.153",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.210",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER"
+        },
+        "expectedNode": {
+          "ip": "189.247.163.153",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.99",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.148.211",
+          "city": "REYNOSA",
+          "pop": "PADRE MIER"
+        },
+        "expectedNode": {
+          "ip": "189.247.163.177",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.99",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.116.191.249",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.88",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.82",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.116.191.250",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.82",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.82",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "201.116.191.251",
+          "city": "MONTERREY",
+          "pop": "REVOLUCION"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.72",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.82",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.241",
+          "city": "CHIHUAHUA",
+          "pop": "CATEDRAL"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.82",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.177",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.242",
+          "city": "CHIHUAHUA",
+          "pop": "CATEDRAL"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.72",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.153",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.243",
+          "city": "CHIHUAHUA",
+          "pop": "CATEDRAL"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.57",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "189.247.163.153",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.249",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.80",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.82",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.250",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.72",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "187.210.208.99",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "201.144.127.251",
+          "city": "MONTERREY",
+          "pop": "MAYO"
+        },
+        "expectedNode": {
+          "ip": "187.210.208.72",
+          "city": "MAYO",
+          "pop": "MONTERREY"
+        },
+        "realNode": {
+          "ip": "63.147.242.201",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      }
+    ],
+    "mxuspss2qro.clarovideo.com": [
+      {
+        "dns": {
+          "ip": "187.141.127.249",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.64",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": ";",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.127.250",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.64",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.128",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.127.251",
+          "city": "COATZACOALCOS",
+          "pop": "COATZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.72",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.91",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.1",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.64",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.115",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.2",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.73",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "65.200.23.8",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.30.3",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "201.144.215.56",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.115",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.1",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.26",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.97",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.2",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.64",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "65.200.22.184",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "187.141.94.3",
+          "city": "VERACRUZ",
+          "pop": "MOCAMBO"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.26",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "65.200.22.243",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.1",
+          "city": "MERIDA",
+          "pop": "PLAZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.64",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.91",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.10",
+          "city": "CANCUN",
+          "pop": "CASCADA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.26",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.89",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.2",
+          "city": "MERIDA",
+          "pop": "PLAZA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.26",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.80",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "189.233.0.9",
+          "city": "CANCUN",
+          "pop": "CASCADA"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.26",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "189.254.81.114",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.155",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.35",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "187.141.1.98",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.177",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.82",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.17",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.178",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.35",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": null,
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": null
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.179",
+          "city": "HERMOSILLO",
+          "pop": "YANEZ"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.17",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.8",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.185",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.17",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": ";",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.186",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.74",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "65.200.22.211",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.187",
+          "city": "HERMOSILLO",
+          "pop": "GARMENDIA"
+        },
+        "expectedNode": {
+          "ip": "187.141.186.82",
+          "city": "YANEZ",
+          "pop": "HERMOSILLO"
+        },
+        "realNode": {
+          "ip": "187.141.186.33",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.195",
+          "city": "GUADALAJARA",
+          "pop": "CTG"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.35",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.51",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.201",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.35",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.51",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.203",
+          "city": "GUADALAJARA",
+          "pop": "TLAQUE"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.35",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "65.200.22.235",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.210",
+          "city": "CELAYA",
+          "pop": "AZTECAS"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.58",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.254.81.88",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.211",
+          "city": "CELAYA",
+          "pop": "AZTECAS"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.35",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "189.247.163.42",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.225",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.35",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": "+cmd",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.226",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.58",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": ";;",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.23.242.227",
+          "city": "LEON",
+          "pop": "PEDRO MORENO"
+        },
+        "expectedNode": {
+          "ip": "189.247.165.58",
+          "city": "FRESNO",
+          "pop": "GUADALAJARA"
+        },
+        "realNode": {
+          "ip": null,
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": null
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.137",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.65",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "23.67.252.25",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.138",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.11",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.74",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.139",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.26",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.74",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.145",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.11",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.11",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.146",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.26",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.74",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.147",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.26",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.153",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.65",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.65",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN",
+          "health": null
+        },
+        "isSameNode": true
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.154",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CULHUACAN"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.83",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.65",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.161",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.26",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.27",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.162",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.41",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.27",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.163",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "CTSJ"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.41",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.169",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "ROMA"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.11",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.26",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.170",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "ROMA"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.11",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "189.247.162.56",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.171",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "ROMA"
+        },
+        "expectedNode": {
+          "ip": "189.247.162.11",
+          "city": "CULHUACAN",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "23.67.252.18",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.193",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.194",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.73",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.115",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.196",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "NEXTENGO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.73",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.201",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.80",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.202",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.73",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.115",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.203",
+          "city": "CIUDAD DE MEXICO",
+          "pop": "VALLEJO"
+        },
+        "expectedNode": {
+          "ip": "187.210.45.73",
+          "city": "NEXTENGO",
+          "pop": "CIUDAD MEXICO"
+        },
+        "realNode": {
+          "ip": "187.210.45.11",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      },
+      {
+        "dns": {
+          "ip": "200.33.146.209",
+          "city": "PUEBLA",
+          "pop": "CTP"
+        },
+        "expectedNode": {
+          "ip": "189.247.164.26",
+          "city": "FUERTES",
+          "pop": "PUEBLA"
+        },
+        "realNode": {
+          "ip": "187.157.63.99",
+          "city": null,
+          "pop": null,
+          "health": null
+        },
+        "isSameNode": false
+      }
+    ]
+  }
+}

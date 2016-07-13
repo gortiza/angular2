@@ -5,7 +5,7 @@ import { Http } from '@angular/http';
 @Component({
   selector: 'about',
   template: `
-    <div>This is the "About" page</div>
+    <div>About Page</div>
   `
 })
 export class About { }
@@ -37,11 +37,12 @@ export class App {
   constructor(public http: Http) { }
 
   ngOnInit() {
+    console.log(this);
     // limit the use of setTimeouts
-      this.server = 'This was rendered from the server!';
+      this.server = 'Rendereo del lado del servidor!';
 
     // use services for http calls
-    this.http.get('/data.json')
+    this.http.get('http://dashboard.clarovideo.net/api/dns/')
       .subscribe(res => {
         this.data = res.json();
       });

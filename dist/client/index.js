@@ -42948,7 +42948,7 @@
 	    About = __decorate([
 	        core_1.Component({
 	            selector: 'about',
-	            template: "\n    <div>This is the \"About\" page</div>\n  "
+	            template: "\n    <div>About Page</div>\n  "
 	        }), 
 	        __metadata('design:paramtypes', [])
 	    ], About);
@@ -42963,8 +42963,9 @@
 	    }
 	    App.prototype.ngOnInit = function () {
 	        var _this = this;
-	        this.server = 'This was rendered from the server!';
-	        this.http.get('/data.json')
+	        console.log(this);
+	        this.server = 'Rendereo del lado del servidor!';
+	        this.http.get('http://dashboard.clarovideo.net/api/dns/')
 	            .subscribe(function (res) {
 	            _this.data = res.json();
 	        });
@@ -42992,7 +42993,7 @@
 /* 274 */
 /***/ function(module, exports) {
 
-	module.exports = "<div class=\"home\">\n  This is the \"djcndjc\" page\n</div>\n"
+	module.exports = "<div class=\"home\">\n  Home Page\n</div>\n"
 
 /***/ },
 /* 275 */

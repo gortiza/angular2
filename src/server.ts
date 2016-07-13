@@ -1,11 +1,9 @@
 // the polyfills must be the first thing imported in node.js
 import 'angular2-universal/polyfills';
-
 import * as path from 'path';
 import * as express from 'express';
 import * as bodyParser from 'body-parser';
 import * as cookieParser from 'cookie-parser';
-
 // Angular 2
 import { enableProdMode } from '@angular/core';
 // Angular 2 Universal
@@ -47,7 +45,7 @@ app.get('/home/*', ngApp);
 function indexFile(req, res) {
   // when there is too much load on the server just send
   // the index.html without prerendering for client-only
-  res.sendFile('/index.html', {root: __dirname});
+  res.render('/index.html', {root: __dirname});
 }
 
 app.get('*', function(req, res) {
